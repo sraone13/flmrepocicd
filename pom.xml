@@ -37,7 +37,7 @@
     			<version>3.3.2</version>
 		</plugin>
 
-	<build>
+	</build>
 	
 	<distributionManagement>
 		 <snapshotRepository>
